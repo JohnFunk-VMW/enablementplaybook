@@ -51,9 +51,9 @@ https://youtu.be/xQdGs2BYZDY
 
 
 ## Environments you can use for hands-on Development work with Pivotal Cloud Foundry
-Cognizant team members have 4 main alternatives for environments to develop applicaitons on Pivotal Cloud Foundry.  The table below sumarized those options.
+Your team members have 4 main alternatives for environments to develop applicaitons on Pivotal Cloud Foundry.  The table below sumarized those options.
 
-| |PCF Dev installed on your laptop| Pivotal Web Services | Cognizant Sandbox | Deploy your own PCF to AWS/GCP/Azure|
+| |PCF Dev installed on your laptop| Pivotal Web Services | Your Internal Sandbox | Deploy your own PCF to AWS/GCP/Azure|
 | --- | --- | --- |--- | --- |
 | Start today | √ | √ | | |
 | Cost | Zero | 1st Month Free / ~$10-$20 per month per AI| Zero | $100 - $150 per month in cloud charges |
@@ -85,11 +85,8 @@ Pivotal Web Services is Pivotal’s hosted Cloud Foundry environment where pay f
 *	Not the same services that a customer’s PCF may have.
 *	No Administrator / Operator experience - it’s a shared service that doesn’t have admin capabilities.
 
-### Cognizant Sanbox Environment
-Cognizant is in the process of setting up a sandbox environment for developers to use as a sandbox.  The system is expected to be available in October 2017.  Please watch this page for updates.
-
 ### Deploy your own PCF to AWS/GCP/Azure
-It is possible to deploy your own full installaiton of PCF into one of the Cloud Providers such a AWS, GCP, or Azure for non-commercial, non-revenue generating activities.  Your project team will be responsible for the cost of the cloud infrastructure which typically costs about $100 - $150 per day.  If you are interested in this option please contact Lee Loughnane lee.loughnane@cognizant.com for more details.
+It is possible to deploy your own full installaiton of PCF into one of the Cloud Providers such a AWS, GCP, or Azure for non-commercial, non-revenue generating activities.  Your project team will be responsible for the cost of the cloud infrastructure which typically costs about $100 - $150 per day.  If you are interested in this option please contact your Pivotal leads for more details.
 #### Advantages:
 
 *	Supports everything customers use: Spring Cloud Services, MySQL, Rabbit, Redis 
