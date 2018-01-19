@@ -1,13 +1,13 @@
 # Enablement Playbook
 ## Customer Success Story Videos
-These videos are a great place to start your journey to learning Pivotal Cloud Foundry becasue they help you understand what real-life customers are doing with PCF.
+These videos are a great place to start your journey to learning Pivotal Cloud Foundry because they help you understand what real-life customers are doing with PCF.
 
 #### Ford Motor Company’s Transition from Auto-Motive to Auto-Mobility
-Great story of tranformation.  A must see video for anyone working with Ford  
+Great story of transformation.  A must see video for anyone working with Ford  
 https://www.youtube.com/watch?v=ryQ7s8q8YWw&t=1232s
 
 #### Comcast Cloud Foundry Journey
-Great discussion of what Comcast has achieved using Pivotl Cloud Foundry  
+Great discussion of what Comcast has achieved using Pivotal Cloud Foundry  
 https://www.youtube.com/watch?v=pfqSsjwCOqA&list=PLAdzTan_eSPRoRJGArqipaN_r5K74o31H&index=9
 
 #### What Does It Take to Run Cloud Foundry at Enterprise Scale? - Verizon
